@@ -1,0 +1,9 @@
+{
+  "name": "ifox",
+  "version": "0.0.1-security",
+  "description": "This package name is not currently in use,but will come soon.",
+  "main": "index.js",
+  "repository": "https://github.com/huangguozhen/ifox.git",
+  "author": "huangguozhen <huangguozhen@outlook.com>",
+  "license": "MIT"
+}
