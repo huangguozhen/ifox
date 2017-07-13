@@ -274,7 +274,7 @@ export function createIfox (Opts) {
       )
 
       function applyNamespace (type) {
-        function getNamespaceReducers (reducers) {
+        function getNamespacedReducers (reducers) {
           return Object.keys(reducers).reduce((memo, key) => {
             warning(key.indexOf(`${namespace}${SEP}`) !== 0,
               `app.model: ${type.slice(0, -1)} ${key} should not be prefixed with namespace ${namespace}`

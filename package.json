@@ -1,6 +1,6 @@
 {
   "name": "ifox",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "react redux react-router@3.x.x集成框架，简化action，reducer的书写方式，让逻辑更清晰，更容易理解。",
   "main": "lib/index",
   "module": "es/index",
